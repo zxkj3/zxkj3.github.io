@@ -1,7 +1,7 @@
 ---
 layout: post
 title: APP应用定制
-
+image: /img/hello_world.jpeg
 ---
 
 ### 专注于精品APP应用定制与研发，资深专业的APP开发团队，确保针对不同行业开发出最适合消费者的APP
