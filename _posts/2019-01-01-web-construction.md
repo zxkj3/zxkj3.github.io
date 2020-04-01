@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WEB应用定制
-image: /img/hello_world.jpeg
+
 ---
 
 ### 优化定制建设服务流程，增强产品的易用性，提高使用者的工作效率，科学地组织生产。
