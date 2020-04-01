@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小程序应用定制
-image: /img/hello_world.jpeg
+
 ---
 
 ### 各个行业，多种场景小程序解决方案，助你无缝打通线上线下
