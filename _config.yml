@@ -89,8 +89,8 @@ social-network-links:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
-
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+工信部备案号:粤ICP备19072128号-1	
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
