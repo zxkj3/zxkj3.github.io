@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: 轴象科技 版权所有 工信部备案号:粤ICP备19072128号-1 
+  name: 轴象科技 版权所有 
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -89,7 +89,7 @@ social-network-links:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.master-wx.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "www.master-wx.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
